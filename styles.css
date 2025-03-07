@@ -1,0 +1,21 @@
+
+
+body {
+    background-color: #252525;
+    color: #ffffff;
+    font-family: sans-serif;
+}
+
+a {
+    color: #ffffff;
+}
+
+a:visited {
+    color: #9f1;
+}
+
+.title {
+    margin-left: 25px;
+    padding-left: 10px;
+    border: white 1px solid;
+}
