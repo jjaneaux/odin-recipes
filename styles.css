@@ -18,16 +18,34 @@ a:visited {
 }
 
 .title {
-    margin-left: 25px;
-    margin-bottom: 25px;
-    padding-left: 10px;
-    border: white 1px solid;
+    margin: 0px 25px 25px 25px;
+    text-align: center;
+    border: 1px solid white;
 }
 
-.content {
-    margin-left: 25px;
-}
 
 .image {
     margin-left: 25px;
+}
+
+.recipe-grid {
+    margin: 0px 25px;
+    border: 1px solid white;
+}
+
+.recipe-mini {
+    margin: 5px 10px 5px 10px;
+    padding: 5px;
+    display: inline-block;
+    border: 1px solid white;
+}
+
+.recipe-preview {
+    height: 200px;
+    width: a200px;
+}
+
+.recipe-name {
+    display: block;
+    text-align: center;
 }
